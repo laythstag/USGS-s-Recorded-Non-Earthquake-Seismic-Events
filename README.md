@@ -1,4 +1,4 @@
-# A Exploration of Non-Earthquake Seismic Events as Recorded by the USGS
+# An Exploration of Non-Earthquake Seismic Events as Recorded by the USGS
 
 # USGS（アメリカ地質調査所）で記録した地震ではない震動についての分析（英語のみ）
 
